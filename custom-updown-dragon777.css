@@ -1,0 +1,43 @@
+#content div.row {
+	background : #191919;
+	padding : 50px 0 200px 0;
+}
+#content .row div.updown {
+	cursor : pointer;
+	margin : 0 auto;
+	width : 900px;
+}
+div.row .updown img {
+	display : block;
+}
+#content .row div.description {
+	background : #080808;
+	color : #ddc87f;
+	display : none;
+	margin : 0 auto;
+	opacity : 0;
+	padding : 20px;
+	width : 860px;
+}
+#content .row h2.title {
+	color : #ddc87f;
+	font-family : soviet-program, AppleGothic, sans-serif;
+	text-align : center;
+	text-transform : uppercase;
+	width : 385px;
+}
+div.row .description h2 {
+	color : #ddc87f;
+	border-bottom : 1px solid #ddc87f;
+	margin : 0 0 20px 0;
+	text-transform : uppercase;
+}
+div.row .description p {
+	text-align : left;
+}
+#content .row div.separator {
+	height : 20px;
+}
+#content .row div.content {
+	margin : 0 auto;
+	width : 900px;/* CSS Document */
